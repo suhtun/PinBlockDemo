@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PinBlockDemo</string>
+    <string name="enter_pin">Enter your PIN</string>
+    <string name="label_pin_block">PIN Block:</string>
+</resources>
